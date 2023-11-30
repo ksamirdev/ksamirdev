@@ -146,10 +146,6 @@
             <span style="font-size: .7em;font-weight:bold;font-family:mono;">SamoCodes#8976</span>
         </div>
         <div style="background: #141414; color:#e5e5e5;letter-spacing: 0.03em;display:inline-flex;padding: .3em;border-radius: .3rem;align-items:center;padding-left:10%;gap: .5rem;cursor:default;">
-            <img src="https://cdn.simpleicons.org/twitter" alt="Twitter" draggable="false" width="20" height="20" />
-            <span style="font-size: .7em;font-weight:bold;font-family:mono;">@samir_diff</span>
-        </div>
-        <div style="background: #141414; color:#e5e5e5;letter-spacing: 0.03em;display:inline-flex;padding: .3em;border-radius: .3rem;align-items:center;padding-left:10%;gap: .5rem;cursor:default;">
             <img src="https://cdn.simpleicons.org/github/white" alt="Github" draggable="false" width="20" height="20" />
             <span style="font-size: .7em;font-weight:bold;font-family:mono;">samocodes</span>
         </div>
