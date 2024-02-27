@@ -38,6 +38,7 @@ I'm a full-stack developer, currently pursuing my studies.
 <br>
 
 
+## ✨ My Contributions:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samocodes/samocodes/snake/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samocodes/samocodes/snake/snake.svg">
