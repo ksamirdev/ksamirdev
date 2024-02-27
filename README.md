@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samocodes/samocodes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samocodes/samocodes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samocodes/samocodes/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 # 🏄‍♂️ Me Samir
 I'm a full-stack developer, currently pursuing my studies.
@@ -36,4 +32,14 @@ I'm a full-stack developer, currently pursuing my studies.
 <br>
 
 ## 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samocodes&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)<br/>
+![](https://github-readme-stats.vercel.app/api?username=samocodes&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+
+<br/>
+<br>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samocodes/samocodes/snake/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samocodes/samocodes/snake/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samocodes/samocodes/snake/snake.svg">
+</picture>
