@@ -1,4 +1,10 @@
-# 🏄‍♂️ Samir
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samocodes/samocodes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samocodes/samocodes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samocodes/samocodes/output/github-contribution-grid-snake.svg">
+</picture>
+
+# 🏄‍♂️ Me Samir
 I'm a full-stack developer, currently pursuing my studies.
 
 ## :space_invader: &nbsp;About Me
