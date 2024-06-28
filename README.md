@@ -47,5 +47,7 @@ I'm a full-stack developer, currently pursuing my studies.
 
 ## Want to commission me?
 Reach out to me on 
+<br>
 Email: email@samirloves.space
+<br>
 Discord: samocodes
