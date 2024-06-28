@@ -44,3 +44,8 @@ I'm a full-stack developer, currently pursuing my studies.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samocodes/samocodes/snake/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samocodes/samocodes/snake/snake.svg">
 </picture>
+
+## Want to commission me?
+Reach out to me on 
+Email: email@samirloves.space
+Discord: samocodes
