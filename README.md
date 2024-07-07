@@ -4,7 +4,7 @@
 I'm a full-stack developer, currently pursuing my studies.
 
 ## :space_invader: &nbsp;About Me
-- I'm a first-year B.Tech student in Computer Science specializing in Machine Learning and AI.
+- I'm a second-year B.Tech student in Computer Science specializing in Machine Learning and AI.
 - I'm passionate about the computer programming, cryptography, networking and AI!
 - I love to talk about computer programming!
 - Currently looking for ideas to build ✨!
