@@ -27,6 +27,7 @@ I'm a full-stack developer, currently pursuing my studies.
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/fff" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/digitalocean" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/docker" />
 
 <br>
 <br>
