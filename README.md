@@ -1,7 +1,7 @@
 
 
-# 🏄‍♂️ Me Samir
-I'm a full-stack developer, currently pursuing my studies.
+# 🏄‍♂️ Samir
+I'm a full-stack developer, currently pursuing my studies and building [schedify.dev](https://schedify.dev)!
 
 ## :space_invader: &nbsp;About Me
 - I'm a second-year B.Tech student in Computer Science specializing in Machine Learning and AI.
@@ -11,23 +11,20 @@ I'm a full-stack developer, currently pursuing my studies.
 
 ## 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/python/3776AB" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/python/3776AB" />
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/fff" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/nextdotjs/fff" />
 <img align="left" alt="Remix" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/remix/fff" />
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />      
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/fff" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/digitalocean" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;padding-top: 10px;" src="https://cdn.simpleicons.org/docker" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/docker" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/sqlite/003B57" />
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/redis/DC382D" />
+<img align="left" alt="DigitalOcean" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/digitalocean" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br>
 <br>
