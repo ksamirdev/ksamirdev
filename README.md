@@ -1,13 +1,13 @@
 
 
 # 🏄‍♂️ Samir
-I'm a full-stack developer, currently pursuing my studies and building [schedify.dev](https://schedify.dev)!
+I'm a full-stack developer and second-year B.Tech CS student, currently building [schedify.dev](https://schedify.dev) — a platform for scheduling and retrying async jobs with ease.
 
 ## :space_invader: &nbsp;About Me
-- I'm a second-year B.Tech student in Computer Science specializing in Machine Learning and AI.
-- I'm passionate about the computer programming, cryptography, networking and AI!
-- I love to talk about computer programming!
-- Currently looking for ideas to build ✨!
+- Studying Computer Science with a focus on Machine Learning and AI.
+- Love building things, solving problems, and talking code.
+- Interested in systems, networking, cryptography, and AI.
+- Always exploring new ideas and looking for cool projects to work on!
 
 ## 🧰 Languages and Tools
 
