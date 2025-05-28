@@ -9,6 +9,14 @@ I'm a full-stack developer and second-year B.Tech CS student, currently building
 - Interested in systems, networking, cryptography, and AI.
 - Always exploring new ideas and looking for cool projects to work on!
 
+## My Open Source Projects
+
+### [Schedy](https://github.com/ksamirdev/schedy)
+A self-hostable, ultra-lightweight HTTP task scheduler for the weird and wonderful automation you want. 
+
+### [Resuma](https://github.com/ksamirdev/resuma)
+Build your resume fast, free, and the right way. Clean, simple, and made to impress recruiters. Fully open source 
+
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
