@@ -1,7 +1,7 @@
 
 
 # 🏄‍♂️ Samir
-I'm a full-stack developer and third-year B.Tech CS student, currently building [clickcircle.app](https://clickcircle.app) - a collaborative photo sharing app,   previously built [schedify.dev](https://schedify.dev) — a platform for scheduling and retrying async jobs with ease.
+I'm a full-stack developer and third-year B.Tech CS student, currently building [stimio.app](https://stimio.app) - a collaborative photo sharing app, previously built [schedify.dev](https://schedify.dev) — a platform for scheduling and retrying async jobs with ease.
 
 ## :space_invader: &nbsp;About Me
 - Studying Computer Science with a focus on Machine Learning and AI.
