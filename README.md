@@ -1,7 +1,7 @@
-
-
 # 🏄‍♂️ Samir
-I'm a full-stack developer and third-year B.Tech CS student, currently building [stimio.app](https://stimio.app) - a collaborative photo sharing app, previously built [schedify.dev](https://schedify.dev) — a platform for scheduling and retrying async jobs with ease.
+I’m a full-stack developer and third-year B.Tech Computer Science student. I built [stimio.app](https://stimio.app) — a collaborative photo sharing platform — and previously created [schedify.dev](https://schedify.dev), a system for scheduling and retrying asynchronous jobs with reliability and ease.
+
+I’m currently working as a Backend Engineer at [Sellhub](https://sellhub.cx), where I focus on building scalable, high-performance systems and strengthening core infrastructure.
 
 ## :space_invader: &nbsp;About Me
 - Studying Computer Science with a focus on Machine Learning and AI.
