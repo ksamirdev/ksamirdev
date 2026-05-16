@@ -1,13 +1,15 @@
 # 🏄‍♂️ Samir
-I’m a full-stack developer and third-year B.Tech Computer Science student. I built [stimio.app](https://stimio.app) — a collaborative photo sharing platform — and previously created [schedify.dev](https://schedify.dev), a system for scheduling and retrying asynchronous jobs with reliability and ease.
 
-I’m currently working as a Backend Engineer at [Sellhub](https://sellhub.cx), where I focus on building scalable, high-performance systems and strengthening core infrastructure.
+I’m a full-stack engineer and third-year B.Tech Computer Science (AI/ML) student who enjoys building scalable products, backend systems, and developer tooling.
 
-## :space_invader: &nbsp;About Me
-- Studying Computer Science with a focus on Machine Learning and AI.
-- Love building things, solving problems, and talking code.
-- Interested in systems, networking, cryptography, and AI.
-- Always exploring new ideas and looking for cool projects to work on!
+Previously, I worked as a Backend Engineer at [Sellhub](https://sellhub.cx), where I contributed to scalable backend systems, internal tooling, and platform infrastructure. Before that, I worked with startups like [Mentra](https://mentra.gg) and [Projexa](https://projexa.ai), building production applications, APIs, cloud infrastructure, and developer-focused tools using TypeScript, Go, Node.js, Python, React, AWS, Docker, and PostgreSQL.
+
+Some things I’ve built:
+
+* [stimio.app](https://stimio.app) — collaborative photo-sharing platform with serverless AWS infrastructure and automatic face grouping
+* [schedify.dev](https://schedify.dev) — open-source task scheduling system with retries, HMAC signing, and timezone-aware scheduling
+
+I’m especially interested in backend architecture, distributed systems, developer experience, AI tooling, and building reliable infrastructure that scales.
 
 ## My Open Source Projects
 
