@@ -1,6 +1,6 @@
 # 🏄‍♂️ Samir
 
-I’m a full-stack engineer and third-year B.Tech Computer Science (AI/ML) student who enjoys building scalable products, backend systems, and developer tooling.
+I’m a full-stack engineer and final-year B.Tech Computer Science (AI/ML) student who enjoys building scalable products, backend systems, and developer tooling.
 
 Previously, I worked as a Backend Engineer at [Sellhub](https://sellhub.cx), where I contributed to scalable backend systems, internal tooling, and platform infrastructure. Before that, I worked with startups like [Mentra](https://mentra.gg) and [Projexa](https://projexa.ai), building production applications, APIs, cloud infrastructure, and developer-focused tools using TypeScript, Go, Node.js, Python, React, AWS, Docker, and PostgreSQL.
 
